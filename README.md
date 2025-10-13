@@ -42,26 +42,28 @@ Maven
 REST API
 
 🔗 REST API Endpoints
+| Endpoint                 | Method | Description                            |
+| ------------------------ | ------ | -------------------------------------- |
+| /api/v1.0/users/register | POST   | Register a new user                    |
+| /api/v1.0/users/login    | POST   | Authenticate user and return JWT token |
 
-User Management
-Endpoint	Method	Description
-/api/v1.0/users/register	POST	Register a new user
-/api/v1.0/users/login	POST	Authenticate user and return JWT token
 
 Vault Management
+| Endpoint                      | Method | Description                      |
+| ----------------------------- | ------ | -------------------------------- |
+| /vault/upload                 | POST   | Upload a new file (encrypted)    |
+| /vault/files                  | GET    | List files (role-based access)   |
+| /vault/download/{filename}    | GET    | Download a file (decrypted)      |
+| /vault/delete/{filename}      | DELETE | Delete a file (admin only)       |
+| /vault/search?name={filename} | GET    | Search files by name             |
+| /vault/audit-logs             | GET    | Retrieve audit logs (admin only) |
 
-Endpoint	Method	Description
-/vault/upload	POST	Upload a new file (encrypted)
-/vault/files	GET	List files (role-based access)
-/vault/download/{filename}	GET	Download a file (decrypted)
-/vault/delete/{filename}	DELETE	Delete a file (admin only)
-/vault/search?name={filename}	GET	Search files by name
-/vault/audit-logs	GET	Retrieve audit logs (admin only)
 
 Audit Logs
+| Endpoint    | Method | Description                                   |
+| ----------- | ------ | --------------------------------------------- |
+| /audit-logs | GET    | List all audit logs (for admins and managers) |
 
-Endpoint	Method	Description
-/audit-logs	GET	List all audit logs (for admins and managers)
 
 🔐 Security and Authentication
 JWT Authentication: Ensures secure user login and role-based access
