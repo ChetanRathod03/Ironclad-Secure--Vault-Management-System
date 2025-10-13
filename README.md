@@ -68,15 +68,14 @@ IroncladVaultManagementSystem/
 ```
 
 🛠️ Technology Stack
-
-Java 17+
-Spring Boot 3.x
-Spring Data JPA
-Spring Security with JWT
-AES-256 Encryption for file security
-MySQL Database
-Maven
-REST API
+Java 17+ – Provides a modern, robust, and high-performance foundation for building secure and scalable backend applications.
+Spring Boot 3.x – Simplifies application setup and configuration, enabling rapid development of production-ready REST APIs.
+Spring Data JPA – Handles database operations efficiently using object-relational mapping (ORM), reducing boilerplate SQL code.
+Spring Security with JWT – Ensures secure authentication and authorization through stateless, token-based user sessions.
+AES-256 Encryption – Protects sensitive files and data by providing advanced encryption for secure storage and transmission.
+MySQL Database – Stores and manages application data reliably with strong relational integrity and scalability.
+Maven – Manages project dependencies, builds, and configurations for easy integration and version control.
+REST API – Enables seamless communication between client and server through standardized, stateless endpoints.
 
 🔗 REST API Endpoints
 | Endpoint                 | Method | Description                            |
@@ -162,6 +161,29 @@ User logs in, server issues a JWT token
 User uploads/downloads files, JWT is validated by JwtRequestFilter
 Each action is logged in AuditLog
 Role-based security controls access to endpoints dynamically
+
+Repositories (Data Access):
+UserRepository.java: Extends JpaRepository; methods for finding users by username.
+FileRepository.java: Extends JpaRepository; methods for querying files by owner, name, etc.
+AuditLogRepository.java: Extends JpaRepository; methods for querying logs by user.
+Services (Business Logic):
+
+UserService.java: Handles user auth; implements UserDetailsService, password encoding, user saving/loading.
+FileService.java: Core file operations; encrypts/decrypts files using AES, manages storage, logs actions.
+
+Config (Security & Utils):
+SecurityConfig.java: Configures Spring Security; disables CSRF, permits auth endpoints, adds JWT filter.
+JwtUtil.java: JWT token generation/validation; extracts claims, handles expiration.
+JwtRequestFilter.java: Intercepts requests; validates JWT, sets authentication context.
+AppConfig.java: Bean for BCrypt password encoder.
+
+DTOs (Data Transfer Objects):
+AuthRequest.java: For login requests; fields: username, password.
+AuthResponse.java: For login responses; fields: token.
+FileResponse.java: For file listings; fields: id, filename, uploadedBy, uploadTime.
+Util:
+
+AESUtil.java: Encryption utilities; generates AES keys, encrypts/decrypts data.
 
 🧑‍💻 Roles and Access Control
 | Role    | Upload | View All Files | Download  | Delete | Search    | View Audit Logs |
