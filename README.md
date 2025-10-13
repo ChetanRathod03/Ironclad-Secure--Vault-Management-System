@@ -19,15 +19,14 @@ Transparent operational audit trails
 Foundation for enterprise-grade document management systems
 
 🏗️ Project Structure
-
 src/main/java/com/java/IroncladVaultManagementSystem/
-├── config/ Security, JWT, and Spring configurations
-├── controller/ REST Controllers for Users, Vault, and Audit Logs
-├── dto/ Data Transfer Objects (AuthRequest, AuthResponse, FileResponse)
-├── model/ Entity classes (User, FileEntity, AuditLog)
-├── repository/ JPA Repositories
-├── service/ Business logic (UserService, FileService)
-├── util/ Utility classes (AES encryption)
+├── config/       Security, JWT, and Spring configurations
+├── controller/   REST Controllers for Users, Vault, and Audit Logs
+├── dto/          Data Transfer Objects (AuthRequest, AuthResponse, FileResponse)
+├── model/        Entity classes (User, FileEntity, AuditLog)
+├── repository/   JPA Repositories
+├── service/      Business logic (UserService, FileService)
+├── util/         Utility classes (AES encryption)
 └── IroncladVaultManagementSystemApplication.java
 
 🛠️ Technology Stack
