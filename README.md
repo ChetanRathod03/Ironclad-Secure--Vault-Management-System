@@ -20,15 +20,49 @@ Transparent operational audit trails
 Foundation for enterprise-grade document management systems
 
 🏗️ Project Structure
-src/main/java/com/java/IroncladVaultManagementSystem/
-├── config/       Security, JWT, and Spring configurations
-├── controller/   REST Controllers for Users, Vault, and Audit Logs
-├── dto/          Data Transfer Objects (AuthRequest, AuthResponse, FileResponse)
-├── model/        Entity classes (User, FileEntity, AuditLog)
-├── repository/   JPA Repositories
-├── service/      Business logic (UserService, FileService)
-├── util/         Utility classes (AES encryption)
-└── IroncladVaultManagementSystemApplication.java
+IroncladVaultManagementSystem/
+├── src/
+│ ├── main/
+│ │ ├── java/
+│ │ │ └── com/java/IroncladVaultManagementSystem/
+│ │ │ ├── config/
+│ │ │ │ ├── AppConfig.java
+│ │ │ │ ├── JwtRequestFilter.java
+│ │ │ │ ├── JwtUtil.java
+│ │ │ │ └── SecurityConfig.java
+│ │ │ ├── controller/
+│ │ │ │ ├── AuditLogController.java
+│ │ │ │ ├── UserController.java
+│ │ │ │ └── VaultController.java
+│ │ │ ├── dto/
+│ │ │ │ ├── AuthRequest.java
+│ │ │ │ ├── AuthResponse.java
+│ │ │ │ └── FileResponse.java
+│ │ │ ├── model/
+│ │ │ │ ├── AuditLog.java
+│ │ │ │ ├── FileEntity.java
+│ │ │ │ └── User.java
+│ │ │ ├── repository/
+│ │ │ │ ├── AuditLogRepository.java
+│ │ │ │ ├── FileRepository.java
+│ │ │ │ └── UserRepository.java
+│ │ │ ├── service/
+│ │ │ │ ├── FileService.java
+│ │ │ │ └── UserService.java
+│ │ │ └── util/
+│ │ │ └── AESUtil.java
+│ │ └── resources/
+│ │ ├── application.properties
+│ │ ├── static/ # Static resources (css, js, images)
+│ │ └── templates/ # Thymeleaf HTML templates
+│ └── test/
+│ └── java/
+│ └── com/java/IroncladVaultManagementSystem/
+│ ├── AuthControllerTests.java
+│ └── IroncladVaultManagementSystemApplicationTests.java
+├── vault_storage/ # Folder to store encrypted files
+├── pom.xml # Maven project descriptor
+└── README.md # Project documentation
 
 🛠️ Technology Stack
 
