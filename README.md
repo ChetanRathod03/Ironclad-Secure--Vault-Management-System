@@ -119,6 +119,7 @@ Audit Logging: Tracks all file operations (UPLOAD, DOWNLOAD, DELETE) for account
 💾 Database Schema
 
 User Table
+Purpose: Stores information about all registered users of the system.
 | Column       | Description                 |
 | ------------ | --------------------------- |
 | id           | UUID Primary Key            |
@@ -128,6 +129,7 @@ User Table
 
 
 FileEntity Table
+Purpose: Stores metadata about files uploaded to the secure vault.
 | Column    | Description                    |
 | --------- | ------------------------------ |
 | id        | UUID Primary Key               |
@@ -137,6 +139,7 @@ FileEntity Table
 | createdAt | Timestamp                      |
 
 AuditLog Table
+Purpose: Tracks all actions performed in the system for transparency and accountability.
 | Column    | Description                   |
 | --------- | ----------------------------- |
 | id        | UUID Primary Key              |
@@ -215,3 +218,4 @@ Audit Logs
 | Method | Endpoint          | Description                            |
 | ------ | ----------------- | -------------------------------------- |
 | GET    | /vault/audit-logs | View audit trail (Admin/User-specific) |
+
