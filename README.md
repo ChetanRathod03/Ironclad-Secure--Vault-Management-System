@@ -17,7 +17,7 @@ It exists in the real world as a solution for:
 Secure storage of sensitive digital assets
 Controlled access to confidential files
 Transparent operational audit trails
-Foundation for enterprise-grade document management systems
+Foundation for enterprise-grade document management systems  
 
 🏗️ Project Structure
 
