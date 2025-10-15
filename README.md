@@ -15,7 +15,7 @@ Ease of Use: Provides a simple interface for performing file operations with min
 Ironclad Vault Management System is ideal for organizations, institutions, and individuals handling confidential documents like financial records, legal contracts, certificates, and personal data.
 It exists in the real world as a solution for:
 Secure storage of sensitive digital assets
-Controlled access to confidential files
+Controlled access to confidential files   
 Transparent operational audit trails
 Foundation for enterprise-grade document management systems  
 
